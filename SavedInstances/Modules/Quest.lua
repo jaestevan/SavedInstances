@@ -706,6 +706,8 @@ local QuestExceptions = {
   [91966] = "Daily", -- Saltheril's Soiree
   [94385] = "Weekly", -- Void Assaults: Eversong Woods
   [94386] = "Weekly", -- Void Assaults: Zul'Aman
+  [96995] = "Weekly", -- The Coiled Isle: Turn Back the Surge
+  [95520] = "Weekly", -- The Coiled Isle: Purging the Vaults
 
   -- General
   -- Darkmoon Faire
