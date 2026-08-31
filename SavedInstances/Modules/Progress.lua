@@ -1906,7 +1906,7 @@ local presets = {
     persists = false,
     fullObjective = false,
   },
-  -- Midnight 12.1 - The Coiled Isle and Vaults of Atal'Utek 
+  -- Midnight 12.1 - The Coiled Isle and Vaults of Atal'Utek
   ["mn-purging-the-vaults"] = {
     type = "single",
     expansion = 11,
